@@ -1,11 +1,11 @@
 {
-  "name": "nodebb-plugin-dbsearch",
+  "name": "nodebb-plugin-dbsearch-chinese",
   "version": "3.0.6",
   "description": "A Plugin that lets users search posts and topics",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/barisusakli/nodebb-plugin-dbsearch"
+    "url": "https://github.com/DaZiYuan/nodebb-plugin-dbsearch-chinese"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

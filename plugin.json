@@ -1,8 +1,8 @@
 {
-    "id": "nodebb-plugin-dbsearch",
-    "name": "DB Search",
+    "id": "nodebb-plugin-dbsearch-chinese",
+    "name": "DB Search Chinese",
     "description": "A Plugin that lets users search posts and topics",
-    "url": "https://github.com/barisusakli/nodebb-plugin-dbsearch",
+    "url": "https://github.com/DaZiYuan/nodebb-plugin-dbsearch-chinese",
     "library": "./index.js",
     "staticDirs": {
         "dbsearch": "public"
