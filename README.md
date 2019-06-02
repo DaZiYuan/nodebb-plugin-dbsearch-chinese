@@ -1,4 +1,4 @@
-# NodeBB Plugin DB Search
+# NodeBB Plugin DB Search Chinese
 
 A Plugin that lets users search posts and topics
 

@@ -19,6 +19,7 @@
   "license": "BSD-2-Clause",
   "dependencies": {
     "async": "2.1.4",
+    "chinese-tokenizer": "^2.1.1",
     "redisearch": "0.0.11",
     "winston": "2.3.1"
   },
