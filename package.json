@@ -1,11 +1,11 @@
 {
-  "name": "nodebb-plugin-dbsearch-chinese",
-  "version": "1.0.0",
-  "description": "尝试支持中文搜索，别给我说solr|es。小网站用不起",
+  "name": "nodebb-plugin-dbsearch-for-chinese",
+  "version": "1.0.3",
+  "description": "尝试支持中文搜索。别说用solr或者es。我这小网站背不动",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DaZiYuan/nodebb-plugin-dbsearch-chinese"
+    "url": "https://github.com/DaZiYuan/nodebb-plugin-dbsearch-for-chinese"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,6 +20,7 @@
   "dependencies": {
     "async": "2.1.4",
     "chinese-tokenizer": "^2.1.1",
+    "nodejieba": "^2.3.0",
     "redisearch": "0.0.11",
     "winston": "2.3.1"
   },
