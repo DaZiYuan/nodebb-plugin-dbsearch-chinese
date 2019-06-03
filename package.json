@@ -1,7 +1,7 @@
 {
   "name": "nodebb-plugin-dbsearch-chinese",
-  "version": "3.0.6",
-  "description": "A Plugin that lets users search posts and topics",
+  "version": "1.0.0",
+  "description": "尝试支持中文搜索，别给我说solr|es小网站用不起",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -15,7 +15,7 @@
     "plugin",
     "search"
   ],
-  "author": "Baris Usakli <baris@designcreateplay.com>",
+  "author": "DaZiYuan <mscoder@hotmail.com>",
   "license": "BSD-2-Clause",
   "dependencies": {
     "async": "2.1.4",
