@@ -1,7 +1,7 @@
 {
   "name": "nodebb-plugin-dbsearch-chinese",
   "version": "1.0.0",
-  "description": "尝试支持中文搜索，别给我说solr|es小网站用不起",
+  "description": "尝试支持中文搜索，别给我说solr|es。小网站用不起",
   "main": "index.js",
   "repository": {
     "type": "git",
