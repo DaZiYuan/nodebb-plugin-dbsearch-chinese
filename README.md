@@ -16,3 +16,5 @@ https://github.com/yanyiwu/nodejieba
 
 NodeBB插件开发讨论群 ：[560696192](https://jq.qq.com/?_wv=1027&k=57apwca)
 
+### todo
+- [ ] 可视化修改自定义字典
